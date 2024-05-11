@@ -4,8 +4,8 @@
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
 
-## NAME: KARTHIKEYAN R
-## REG.NO:212222240046
+## NAME: kathiravan
+## REG.NO:212222230063
 
 ## ALGORITHM:
 1. Import the necessary modules in python</br>
